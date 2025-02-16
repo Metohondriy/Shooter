@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wolf
+  - Bear1
+  - Bear2
+  - Bear3
+  - Bear4
+  - Terrain
   layers:
   - Default
   - TransparentFX
